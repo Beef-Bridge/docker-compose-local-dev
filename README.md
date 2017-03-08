@@ -78,6 +78,6 @@ services:
 > #### Note
 > Pensez à modifier les valeurs **/chemin/local/vers/le/repertoire/Symfony**, **/chemin/local/vers/le/repertoire/Data**, **nom_de_la_base_de_donnees_que_vous_voulez**, **nom_utilisateur_mysql_que_vous_voulez** et **mot_de_passe_mysql_que_vous_voulez** !
 
-Maintenant que nous avons notre fichier docker-compose.yml, comprenant les diverses liaisons entre les containers et images, il nous faut créer ces images.  
+Maintenant que nous avons notre fichier ``docker-compose.yml``, comprenant les diverses liaisons entre les containers et images, il nous faut créer ces images.  
 
 ## Nos images
